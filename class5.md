@@ -121,7 +121,7 @@ D.  None of them
 
 <br>
 
-____________
+______C______
 
 
 If Charlie gets full marks in the final exam, he feels happy; if Charlie feels happy and it is raining outside, he plays computer games at home. Charlie is not playing computer games at home. Which of the followings must be true?
@@ -133,7 +133,7 @@ D. None of the above
 
 <br>
 
-____________
+______D______
 
 Alice, Bob and Charlie are invited to a party. However, they still haven’t decided whether they will go to the party or not. If Alice goes then Bob will also go; if Alice and Bob both go, then Charlie will not go. Which of the following is/are possible situations?
 
@@ -148,7 +148,7 @@ D. ii and iii only
 
 <br>
 
-____________
+______C______
 
 Suppose this statement is true: “If I eat this giant cookie, then I will feel sick.” Which of the following statements must also be true?
 
@@ -158,25 +158,25 @@ C. If I don’t feel sick, then I didn’t eat that giant cookie.
 
 <br>
 
-________________________________________________________________________________
+C________________________________________________________________________________
 
 “Somebody brought a flashlight.” Write the negation of this statement.
 
 <br>
 
-________________________________________________________________________________
+Nobody brought a flashlight.
 
 “There are no prime numbers that are even.” Write the negation of this statement.
 
 <br>
 
-________________________________________________________________________________
+At least one prime number that is even.
 
 “All Chinese children learn English in school.” Write the negation of this statement.
 
 <br>
 
-_______________________
+At least one Chinese children don't learn English in school.
 
 ## Fibonacci Numbers
 In mathematics, the Fibonacci sequence is defined as F<sub>n</sub> = F<sub>n-1</sub> + F<sub>n-2</sub> with F<sub>0</sub> = 0 and F<sub>1</sub> = 1. The first few Fibonacci numbers are 0, 1, 1, 2, 3, 5, 8, 13, ...
